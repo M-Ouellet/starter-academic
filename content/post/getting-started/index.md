@@ -1,44 +1,30 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2020-12-13T00:00:00Z"
-
-# Date updated
-lastmod: "2020-12-13T00:00:00Z"
-
-# Is this an unpublished draft?
+authors:
+- admin
+- 吳恩達
+categories:
+- Demo
+- 教程
+date: "2016-04-20T00:00:00Z"
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   placement: 2
   preview_only: false
-
-authors:
-- admin
-- 吳恩達
-
+lastmod: "2020-12-13T00:00:00Z"
+projects: []
+subtitle: "Welcome \U0001F44B We know that first impressions are important, so we've
+  populated your new site with some initial content to help you get familiar with
+  everything in no time."
+summary: "Welcome \U0001F44B We know that first impressions are important, so we've
+  populated your new site with some initial content to help you get familiar with
+  everything in no time."
 tags:
 - Academic
 - 开源
-
-categories:
-- Demo
-- 教程
+title: Welcome to Wowchemy, the website builder for Hugo
 ---
 
 ## Overview
@@ -56,7 +42,7 @@ categories:
 - 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
 - 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
 
 ## Crowd-funded open-source software
 
@@ -68,7 +54,7 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 
 ## Ecosystem
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+* **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to automatically import publications from BibTeX
 
 ## Inspiration
 
