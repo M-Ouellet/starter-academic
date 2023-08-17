@@ -5,10 +5,10 @@ image:
 #  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
-# - icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+- icon: open-data
+  icon_pack: fab
+  name: Police Networks Project
+  url: https://ponet.netlify.app
 # slides: example
 summary: This project examines the role of workplace interactions and informal relationships in guiding police work and shaping officer behaviors.
 tags:

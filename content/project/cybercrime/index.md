@@ -5,14 +5,14 @@ image:
 #  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
-# - icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+- icon: open-data
+  icon_pack: fab
+  name: Cybernetworks
+  url: https://ebcs.gsu.edu/project/darknet-analysis/
 # slides: example
 summary: This project explores how criminal groups operate and connect in online spaces.
 tags:
-- Digital networks
+- Digital Networks on the Darkweb
 title: Digital Networks
 url_code: ""
 url_pdf: ""
