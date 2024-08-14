@@ -72,7 +72,7 @@ highlight_name: true
 
 
 
-Marie Ouellet is an Assistant Professor in the Department of Criminal Justice and Criminology at Georgia State University. Her research applies network science to better understand the ways relationships and interactions shape offending patterns, criminal mobility, and group evolution.  
+Marie Ouellet is an Assistant Professor in the School of Criminology at Simon Fraser University. Her research applies network science to better understand the ways relationships and interactions shape offending patterns, criminal mobility, and group evolution.  
 
 Ouellet's research on these topics has been published in *Criminology*, *Criminology & Public Policy*, *Journal of Research in Crime and Delinquency*, *Justice Quarterly*, and *Social Networks* among other outlets. 
 
