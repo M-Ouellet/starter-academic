@@ -6,12 +6,12 @@ title: Marie Ouellet
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Criminal Justice & Criminology
+role: Assistant Professor, School of Criminology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Georgia State University
-  url: https://aysps.gsu.edu/profile/marie-ouellet-2/
+- name: Simon Fraser University
+  url: https://www.sfu.ca/criminology/about/faculty/criminology-faculty/marie-ouellet/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the role of networks in shaping offending patterns, criminal mobility, and group evolution.
