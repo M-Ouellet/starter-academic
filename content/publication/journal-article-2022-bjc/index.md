@@ -12,7 +12,7 @@ authors:
 - Yubao Wu
 
 date: "2022-11-01T00:00:00Z"
-# doi: "https://doi.org/10.1093/bjc/azab116
+# doi: "https://academic.oup.com/bjc/article/62/6/1518/6503727?login=false
 # "
 featured: false
 image:
